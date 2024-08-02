@@ -2,7 +2,7 @@
 
 # About Me:
 
-I'm a Front End Developer, living in my early 3rd decade.<br>I'm a learner in this field, always a learner...<br>Because there's always something to learn.<br>I do this...<br>Because i love it.
+I'm a Front End Developer, living in my early 3rd decade.<br>من یک برنامه‌نویس فرانت‌اند هستم که در اوایل سومین دهه زندگیم زندگی میکنم<br>I'm a learner in this field, always a learner...<br>من همیشه یک آموزنده در این حوزه هستم<br>Because there's always something to learn.<br>زیرا همیشه چیزی برای آموختن وجود دارد<br>I do this...<br>این کار رو انجام میدم<br>Because i love it.<br>به این دلیل که دوسش دارم
 
 
 # Tech Stack:
